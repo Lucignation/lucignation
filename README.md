@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">👋 Hi, I'm Gerald 🦊</h3>
 <p align="center">
   <a href="https://gerald.vercel.app">🌍 Website</a> • 
