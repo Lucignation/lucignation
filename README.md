@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 -->
-About Me: My name is Gerald Olumide and I'm a Full Stack Developer with 4+ experience on Frontend and 3+ experience on the Backend building scalable APIs and web apps. I've worked with JavaScript, ReactJS, NodeJS, Express. Currently working with C# at my current place of work.
+About Me: My name is Gerald Olumide and I'm a Full Stack Developer with 4+ experience on Frontend and 3+ experience on the Backend building scalable APIs and web apps. I've worked with JavaScript, TypeScript, ReactJS, NodeJS, Express, Jest, React-test-renderer. Currently working with C# at my current place of work.
 
 - 🔭 I’m currently working on being a better version of me
 - 🌱 I’m currently learning DevOps
