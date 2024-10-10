@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://gerald.vercel.app">🌍 Website</a> • 
   <a href="https://medium.com/@lucignation">📖 Blog</a> • 
-  <a href="https://twitter.com/lucignation">📱 Twitter</a> • 
+  <a href="https://twitter.com/lucignation">📱 X(Twitter)</a> • 
   <a href="https://linkedin.com/in/geraldolumide">🗞️ LinkedIn</a>
 </p>
 
