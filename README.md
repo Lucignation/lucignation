@@ -14,14 +14,14 @@
 Here are some ideas to get you started:
 
 -->
-About Me: My name is Gerald Olumide and I'm a Full Stack Developer with 4+ experience on Frontend and 3+ experience on the Backend building scalable APIs and web apps. I've worked with JavaScript, TypeScript, ReactJS, NodeJS, Express, Jest, React-test-renderer. Currently working with C# at my current place of work.
+About Me: My name is Gerald Olumide and I'm a Full Stack Developer with 6+ experience on Frontend and 5+ experience on the Backend building scalable APIs and web apps. I've worked with JavaScript, TypeScript, ReactJS, NextJS, React Native, NodeJS.
 
 - 🔭 I’m currently working on being a better version of me
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on React/Node Open Source
+- 👯 I’m looking to collaborate on JavaScript Open Source
 - 🤔 I want you guys to help me star nigeria-locations on GitHub while using the package in your next React Project [Nigeria-Locations](https://www.npmjs.com/package/nigeria-locations)
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: You can find me on [LinkedIn](https://linkedin.com/in/geraldolumide). You will find me there
-- 😄 Pronouns: give/me/money
+- 😄 Pronouns: he/his/him
 <!-- - ⚡ Fun fact: ... -->
 
